@@ -1,0 +1,42 @@
+@charset "utf-8"; 
+
+.list_menu ul li {
+	padding: 5px 0 0 15px;
+}
+
+.list_menu ul li a {
+	background:
+		url(https://ssl.pstatic.net/static/pwe/note/2013/spr_lft_black.png)
+		no-repeat;
+	padding: 3px 0 3px 21px;
+	color: black;
+	text-decoration: none !important
+}
+
+.list_menu ul li a.bu2 {
+	background-position: -198px 0
+}
+
+.list_menu ul li a.bu3 {
+	background-position: -198px -76px
+}
+
+.list_menu ul li a.bu4 {
+	background-position: -198px -104px
+}
+
+.list_menu ul li a.bu5 {
+	background-position: -198px -132px
+}
+
+.list_menu ul li a.bu6 {
+	background-position: -198px -156px
+}
+
+.list_menu ul li a.bu7 {
+	background-position: -198px -28px
+}
+
+.list_menu ul li a.bu8 {
+	background-position: -198px -52px
+}
